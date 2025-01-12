@@ -25,5 +25,23 @@ export default sidebar({
         "presentation-apps",
       ],
     },
+    {
+      text: "一体机系统优化",
+      collapsible: false,
+      expanded: true,
+      prefix: "seewo-system-optimization",
+      link: "seewo-system-optimization/",
+      children: [
+      ],
+    },
+    {
+      text: "一体机故障修复",
+      collapsible: false,
+      expanded: true,
+      prefix: "seewo-problem-fixing",
+      link: "seewo-problem-fixing/",
+      children: [
+      ],
+    },
   ],
 });
