@@ -13,7 +13,7 @@ export default hopeTheme({
 
   logo: "/imgs/tutorial-logo-large.svg",
 
-  repo: "unDefFtr/seewo-tutorial-web",
+  repo: "seewo-geek/seewo-tutorial-web",
 
   docsDir: "src",
 
