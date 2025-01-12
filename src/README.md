@@ -29,5 +29,14 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
     desc="了解适合班级使用的常用软件，不被流氓软件拖后腿。"
     link="./docs/seewo-software-suggestion/"
   />
-  
+  <VPCard
+    title="一体机系统优化"
+    desc="对系统进行针对教学场景的专项优化，使一体机更稳定。"
+    link="./docs/seewo-system-optimization/"
+  />
+  <VPCard
+    title="一体机故障修复"
+    desc="快速修复常见故障，不为使用影响而烦恼。"
+    link="./docs/seewo-problem-fixing/"
+  />
 </div>

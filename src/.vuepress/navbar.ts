@@ -9,6 +9,8 @@ export default navbar([
     children: [
       "seewo-hardware-introduction/",
       "seewo-software-suggestion/",
+      "seewo-system-optimization/",
+      "seewo-problem-fixing/",
     ],
   },
 ]);

@@ -32,6 +32,7 @@ export default sidebar({
       prefix: "seewo-system-optimization",
       link: "seewo-system-optimization/",
       children: [
+        "daily-maintenance",
       ],
     },
     {
